@@ -1,24 +1,7 @@
-# app
+IP Address Tracker
 
-## Project setup
-```
-yarn install
-```
+This project built by Vue.js , tailwindcss and also leaflet.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Features:
+1. we can locate Ip Address
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
